@@ -1,0 +1,26 @@
+# Jekyll Settings
+excerpt_separator: <!--more-->
+exclude: ["CNAME", "README.md", "LICENSE"]
+paginate: 5
+paginate_path: ":num"
+permalink: pretty
+sass:
+    style: :compressed
+
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# Custom Variables
+analytics: 100929437
+author:
+  email: "&#109;&#97;&#98;&#101;&#114;&#103;&#101;&#114;&#54;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;"
+  github: "pblottiere"
+  linkedin: "pblottiere"
+  name: "Paul Blottiere"
+  uri: "https://maberger.com"
+description: "Personal website of Paul Blottiere, Software Engineer."
+title: "Paul Blottiere"
+url: "https://maberger.com"
