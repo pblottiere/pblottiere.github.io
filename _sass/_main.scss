@@ -64,6 +64,11 @@ ul {
   }
 }
 
+a {
+  text-decoration: none;
+  color: $color-light;
+}
+
 svg {
   height: 12.5rem;
   width: 12.5rem;

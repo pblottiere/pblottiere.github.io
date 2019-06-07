@@ -8,6 +8,7 @@ Paul Blottiere
 
 Software Engineer
 
+<br/>
 # Contact
 
 TODO
