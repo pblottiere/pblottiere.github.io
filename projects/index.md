@@ -2,7 +2,7 @@
 layout: left
 ---
 
-# QGIS ecosystem
+# <a href="https://www.qgis.org/en/site/">_QGIS_</a> ecosystem
 
 Core committer and sysadmin of qgis4 server, I'm deeply involved in QGIS
 project. In particular, I participated in the next GitHub repositories:
@@ -25,7 +25,7 @@ Having a strong interest in point cloud technologies, I'm also involved in:
 
   + {:.item} <a href="https://github.com/pgpointcloud/pointcloud">_PgPointCloud_</a> (core committer, LAZ compression)
   + {:.item} <a href="https://github.com/PDAL/PDAL">_PDAL_</a> (revert morton algorithm)
-  + {:.item} <a href="https://github.com/libLAS/libLAS">_LibLAS_</a>
+  + {:.item} <a href="https://github.com/LASzip/LASzip">_LASzip_</a>
 
 <br/>
 # Hobby

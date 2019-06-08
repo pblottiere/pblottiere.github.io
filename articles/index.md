@@ -2,7 +2,7 @@
 layout: left
 ---
 
-# For Oslandia
+# For <a href="https://oslandia.com/en/">_Oslandia_</a>
 
   + {:.item} <a href="https://oslandia.com/2018/11/06/qgis-server-3-ogc-certification-work-for-wfs-1-1-0/">**2018** - _QGIS Server 3 : OGC Certification work for WFS 1.1.0_</a>
   + {:.item} <a href="https://oslandia.com/2017/12/20/qgis-3-compiling-on-windows/">**2017** - _QGIS 3 compiling on Windows_</a>
