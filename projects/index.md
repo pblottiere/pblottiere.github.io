@@ -4,8 +4,9 @@ layout: left
 
 # <a href="https://www.qgis.org/en/site/">_QGIS_</a> ecosystem
 
-Core committer and sysadmin of qgis4 server, I'm deeply involved in QGIS
-project. In particular, I participated in the next GitHub repositories:
+Core committer, French Voting Member and sysadmin of qgis4 server, I'm deeply
+involved in QGIS project. In particular, I participated in the next GitHub
+repositories:
 
   + {:.item} <a href="https://github.com/qgis/QGIS">_QGIS_</a> (qgz format, auxiliary storage, QGIS Server, ...)
   + {:.item} <a href="https://github.com/qgis/QGIS-Server-CertifSuite">_QGIS-Server-CertifSuite_</a> (OGC certification for WMS 1.3.0)
