@@ -17,7 +17,9 @@ repositories:
   + {:.item} <a href="https://github.com/g-sherman/Qgis-Plugin-Builder">_QGIS-Plugin-Builder_</a>
 
 I also developed a command line tool for building performance reports for WMS
-services: <a href="https://github.com/pblottiere/graffiti">_graffiti_</a>.
+services: <a href="https://github.com/pblottiere/graffiti">_graffiti_</a>. It's
+currently deployed in continuous integration on qgis4 server to generate 
+<a href="http://tests.qgis.org/perf_test/graffiti/">_daily performance reports_</a> for QGIS Server.
 
 <br/>
 # Point Clouds
