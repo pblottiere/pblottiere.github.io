@@ -8,10 +8,6 @@
     "url": "/projects/"
   },
   {
-    "title": "Teachings",
-    "url": "/teachings/"
-  },
-  {
     "title": "Articles",
     "url": "/articles/"
   },
@@ -22,5 +18,9 @@
   {
     "title": "Work",
     "url": "/work/"
+  },
+  {
+    "title": "Teachings",
+    "url": "/teachings/"
   }
 ]
