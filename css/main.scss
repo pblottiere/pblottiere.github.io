@@ -10,6 +10,21 @@ li.item {
     list-style: disc;
     list-style-type: disc;
     text-transform: none;
-    font-size: 1.8rem;
+    font-size: 1.6rem;
     font-weight: 300;
+}
+
+li.item a:link {
+    color: $color-blue;
+    font-weight: 400;
+}
+
+li.item a:visited {
+    color: $color-blue;
+    font-weight: 400;
+}
+
+li.item a:hover {
+    color: white;
+    font-weight: 400;
 }

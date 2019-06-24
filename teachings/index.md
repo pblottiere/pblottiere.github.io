@@ -4,22 +4,29 @@ layout: left
 
 # Embedded Systems
 
-Thanks to my professional experience, I have been giving some teachings in
-Embedded Systems at <a href="https://www.ensta-bretagne.fr/en"> _ENSTA_ </a>
-for 5 years now.
+Thanks to my professional experience in avionics middleware development,
+I have been teaching GNU/Linux Embedded Systems to final year
+students at <a href="https://www.ensta-bretagne.fr/en">ENSTA</a>
+for 5 years now. System Programming, U-Boot and Yocto are extensively studied
+and concepts are applied on ARM single board computer. The final exam
+consists in designing and building an IP camera installed on servo-motors.
 
 Lectures and laboratories are available on GitHub:
-<a href="http://github.com/pblottiere/embsys"> _embsys_ </a>.
+<a href="http://github.com/pblottiere/embsys">embsys</a>.
 
-<br/>
+<hr/>
 # Distributed Systems
 
-I have been giving a hand in Distributed Systems laboratories (MPI, RPC,
-RabbitMQ, ...) at <a href="https://www.imt-atlantique.fr/en">_IMT Atlantique_</a>
-for 5 years.
+Through my professional projects, I am used to work and design distributed
+architectures. Therefore, I'm regularly called to give a hand in Distributed Systems
+laboratories (MPI, RPC, RabbitMQ, ...) to final year students at
+<a href="https://www.imt-atlantique.fr/en">IMT Atlantique</a>.
 
-<br/>
-# Formations
+It's always a pleasure to come back to my former engineering school!
 
-For several years now, I have been giving training courses in software
-engineering, especially on QGIS (usage, Python plugins, C++).
+<hr/>
+# Training
+
+For several years now, I am a professional instructor specialised on QGIS
+software.  User training, Python plugin or C++ core development are always a
+good way to fuel thinking and creativity.

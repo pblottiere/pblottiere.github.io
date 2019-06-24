@@ -1,18 +1,21 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:300,400,700');
 
 $color-dark: #333;
+$color-darker: #202020;
 $color-med: #666;
 $color-light: #ddd;
+$color-light-nav: #999999;
 $color-lighter: #bbb;
-$color-blue: #0a84ff;
+$color-blue: #3F98E2;
+$color-hr: #404040;
 
 @import 'dark';
 @import 'light';
 
-$font-size-large: 2.8rem;
+$font-size-large: 2.4rem;
 $font-size-normal: 2rem;
 $font-size-small: 1.8rem;
-$font-size-tiny: 1.4rem;
+$font-size-tiny: 1.6rem;
 $font-family-sans: Lato, sans-serif;
 
 html, body {
@@ -25,7 +28,7 @@ body {
   align-items: center;
   flex-flow: row wrap;
   font-family: $font-family-sans;
-  font-size: $font-size-small;
+  font-size: $font-size-tiny;
   font-weight: 300;
   min-height: 100vh;
 
@@ -38,35 +41,81 @@ h1 {
   font-weight: 400;
   font-size: $font-size-large;
   margin-bottom: 1rem;
+  margin-top: 3rem;
+  color: white;
 }
 
 h2 {
   font-size: $font-size-small;
-  font-weight: 300;
-  margin-top: 0.5rem;
+  font-weight: 400;
+  color: white;
+  margin-bottom: 1rem;
+  margin-top: 2rem;
 }
 
-ul {
+ul.topnav {
+  list-style-type: none;
   font-size: 1.6rem;
   font-weight: 400;
-  text-align: center;
-
-  li {
-    display: inline-block;
-    padding-left: 0px;
-    padding-right: 2rem;
-    text-transform: uppercase;
-  }
-
-  a {
-    padding-bottom: 0.5rem;
-    text-decoration: none;
-  }
+  margin: 0;
+  padding: 0;
+  padding-left: 20%;
+  overflow: hidden;
+  background-color: $color-darker;
+  position: fixed;
+  width: 100%;
+  top: 0;
 }
 
-a {
+ul.topnav  li {
+  float: left;
+}
+
+ul.topnav  a {
+  display: block;
+  color: $color-light-nav;
+  text-align: center;
+  padding: 16px 16px;
+  padding-left: 0px;
   text-decoration: none;
-  color: $color-light;
+}
+
+ul.topnav a:hover {
+  color: white;
+}
+
+ul.topnav a:active {
+  color: white;
+}
+
+//ul {
+//  font-size: 1.6rem;
+//  font-weight: 400;
+//  text-align: center;
+//
+//  li {
+//    display: inline-block;
+//  }
+//
+//  a {
+//    padding-left: 0px;
+//    text-decoration: none;
+//  }
+//}
+
+a:link {
+  color: $color-blue;
+  font-weight: 400;
+}
+
+a:visited {
+  color: $color-blue;
+  font-weight: 400;
+}
+
+a:hover {
+  color: white;
+  font-weight: 400;
 }
 
 svg {
@@ -79,7 +128,7 @@ header {
 }
 
 main {
-  width: 70%;
+  width: 60%;
 }
 
 footer {
@@ -96,17 +145,20 @@ footer svg {
 }
 
 hr {
-  width: 70%;
+  width: 100%;
   margin-top: 10px;
-  height: 0px;
+  height: 1px;
+  background-color: $color-hr;
+  border: 0 none;
 }
 
 p {
   text-align: justify;
+  margin-top: 0px;
 }
 
 .center-image
 {
-    margin: 0 auto;
-    //display: block;
+  margin: 0 auto;
+  //display: block;
 }

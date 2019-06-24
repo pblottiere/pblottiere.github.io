@@ -5,15 +5,14 @@ layout: left
 
 # Speaker
 
-  + {:.item} <a href="https://europe.foss4g.org/2017/assets/pdf/FOSS4G-Europe-2017-Program.pdf">**2017** - _Talk about QGIS Server 3: Refactoring and enhancement, FOSS4G Europe, Paris, France_</a>
-  + {:.item} <a href="http://osgeo.asso.fr/foss4gfr-2016/programme.html">**2016** - _Workshop about massive Point Cloud processing (PostGIS, PDAL, PgPointCloud), FOSS4Gfr, Paris, France_</a>
-  + {:.item} <a href="http://blog.qgis.org/2016/06/30/report-back-15th-qgis-hackfest-in-girona-spain/">**2016** - _Talk about QGIS Virtual Layers, QGIS User and Developer Conference, Gérone, Espagne_</a>
+  + {:.item} **2017** - Talk about <a href="https://europe.foss4g.org/2017/assets/pdf/FOSS4G-Europe-2017-Program.pdf">QGIS Server 3: Refactoring and enhancement</a>, FOSS4G Europe, Paris, France
+  + {:.item} **2016** - Workshop about <a href="http://osgeo.asso.fr/foss4gfr-2016/programme.html">Massive Point Cloud processing (PostGIS, PDAL, PgPointCloud)</a>, FOSS4Gfr, Paris, France
+  + {:.item} **2016** - Talk about <a href="http://blog.qgis.org/2016/06/30/report-back-15th-qgis-hackfest-in-girona-spain/">QGIS Virtual Layers</a>, QGIS User and Developer Conference, Gérone, Espagne
 
-<br>
 # Contributor
 
-  + {:.item} <a href="">**2018** - _FOSS4G Belgique, Brussel, Belgique_</a>
-  + {:.item} <a href="https://github.com/qgis/QGIS/wiki/QGIS3---QGIS-Server-code-sprint-Notes">**2017** - _QGIS Server Code Sprint, Lyon, France_</a>
-  + {:.item} <a href="https://github.com/qgis/QGIS/wiki/19th-QGIS-Developer-Meeting-and-3rd-User-conference-in-N%C3%B8debo,-August-2-11-2017">**2017** - _QGIS User and Developer Conference, Nødebo, Danemark_</a>
-  + {:.item} <a href="https://www.pycon.fr/2016/">**2016** - _PyConfr, Rennes, France_</a>
-  + {:.item} <a href="https://wiki.osgeo.org/wiki/Paris_Code_Sprint_2016">**2016** - _OSGeo Code Sprint, Paris, France_</a>
+  + {:.item} **2018** - <a href="">FOSS4G Belgique</a>, Brussel, Belgique
+  + {:.item} **2017** - <a href="https://github.com/qgis/QGIS/wiki/QGIS3---QGIS-Server-code-sprint-Notes">QGIS Server Code Sprint</a>, Lyon, France
+  + {:.item} **2017** - <a href="https://github.com/qgis/QGIS/wiki/19th-QGIS-Developer-Meeting-and-3rd-User-conference-in-N%C3%B8debo,-August-2-11-2017">QGIS User and Developer Conference</a>, Nødebo, Danemark
+  + {:.item} **2016** - <a href="https://www.pycon.fr/2016/">PyConfr</a>, Rennes, France
+  + {:.item} **2016** - <a href="https://wiki.osgeo.org/wiki/Paris_Code_Sprint_2016">OSGeo Code Sprint</a>, Paris, France

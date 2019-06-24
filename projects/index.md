@@ -2,35 +2,38 @@
 layout: left
 ---
 
-# <a href="https://www.qgis.org/en/site/">_QGIS_</a> ecosystem
+# QGIS ecosystem
 
-Core committer, French Voting Member and sysadmin of qgis4 server, I'm deeply
-involved in QGIS project. In particular, I participated in the next GitHub
-repositories:
+## Role
 
-  + {:.item} <a href="https://github.com/qgis/QGIS">_QGIS_</a> (qgz format, auxiliary storage, QGIS Server, ...)
-  + {:.item} <a href="https://github.com/qgis/QGIS-Server-CertifSuite">_QGIS-Server-CertifSuite_</a> (OGC certification for WMS 1.3.0)
-  + {:.item} <a href="https://github.com/qgis/QGIS-Server-PerfSuite">_QGIS-Server-PerfSuite_</a>
-  + {:.item} <a href="https://github.com/qgis/QGIS-Sysadmin">_QGIS-Sysadmin_</a>
-  + {:.item} <a href="https://github.com/qgis/QGIS-Documentation">_QGIS-Documentation_</a>
-  + {:.item} <a href="https://github.com/qgis/QGIS-Website">_QGIS-Website_</a>
-  + {:.item} <a href="https://github.com/g-sherman/Qgis-Plugin-Builder">_QGIS-Plugin-Builder_</a>
+Core committer, French Voting Member and System Administrator, I'm deeply
+involved in <a href="https://www.qgis.org/en/site">QGIS</a> project. In particular,
+I participated in the following GitHub repositories:
 
-I also developed a command line tool for building performance reports for WMS
-services: <a href="https://github.com/pblottiere/graffiti">_graffiti_</a>. It's
-currently deployed in continuous integration on qgis4 server to generate 
-<a href="http://tests.qgis.org/perf_test/graffiti/">_daily performance reports_</a> for QGIS Server.
+  + {:.item} <a href="https://github.com/qgis/QGIS">QGIS</a>: qgz format, auxiliary storage, QGIS Server, ...
+  + {:.item} <a href="https://github.com/qgis/QGIS-Server-CertifSuite">QGIS-Server-CertifSuite</a>: docker infrastructure to generate WMS 1.3.0 and WFS 1.1.0 OGC certification reports
+  + {:.item} <a href="https://github.com/qgis/QGIS-Server-PerfSuite">QGIS-Server-PerfSuite</a>: docker infrastructure to monitor performances and generate statitics reports
+  + {:.item} <a href="https://github.com/qgis/QGIS-Sysadmin">QGIS-Sysadmin</a>: automated deployment scripts for qgis4 server
+  + {:.item} <a href="https://github.com/qgis/QGIS-Documentation">QGIS-Documentation</a>: documentation repository
 
-<br/>
+## Graffiti
+
+For the purpose of QGIS Server and performance analysis for WMS service, I developped
+<a href="https://github.com/pblottiere/graffiti">graffiti</a>. This command
+line tool allows to generate a statistics report according to a customisable test
+scenario written in YAML. It is now deployed in continuous integration on qgis4 server to generate
+<a href="http://tests.qgis.org/perf_test/graffiti/">daily performance reports</a>.
+
+<hr/>
 # Point Clouds
 
-Having a strong interest in point cloud technologies, I'm also involved in:
+Due to my strong interest in point cloud technologies, I'm also involved in:
 
-  + {:.item} <a href="https://github.com/pgpointcloud/pointcloud">_PgPointCloud_</a> (core committer, LAZ compression)
-  + {:.item} <a href="https://github.com/PDAL/PDAL">_PDAL_</a> (revert morton algorithm)
-  + {:.item} <a href="https://github.com/LASzip/LASzip">_LASzip_</a>
+  + {:.item} <a href="https://github.com/pgpointcloud/pointcloud">PgPointCloud</a>: core committer, LAZ compression
+  + {:.item} <a href="https://github.com/PDAL/PDAL">PDAL</a>: revert Morton algorithm
+  + {:.item} <a href="https://github.com/LASzip/LASzip">LASzip</a>
 
-<br/>
+<hr/>
 # Hobby
 
-  + {:.item} <a href="https://github.com/Brasserie-De-Toulbroch">_Brasserie de Toulbroc'h_</a>
+  + {:.item} <a href="https://github.com/Brasserie-De-Toulbroch">Brasserie de Toulbroc'h</a>

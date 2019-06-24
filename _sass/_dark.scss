@@ -2,15 +2,11 @@ body[data-state=dark] {
   background-color: $color-dark;
   color: $color-light;
 
-  h2 {
-    color: $color-lighter;
-  }
-
   ul a {
-    color: $color-light;
+    color: $color-light-nav;
 
     &.active {
-      border-bottom: 0.2rem solid $color-blue;
+      color: white;
     }
   }
 
