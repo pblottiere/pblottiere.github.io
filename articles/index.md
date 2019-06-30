@@ -2,6 +2,11 @@
 layout: left
 ---
 
+# Personal
+
+  + {:.item} **2019** - [PyQGIS, QML and charts]({% post_url 2019-06-28-qml-part0 %})
+
+
 # For Oslandia
 
   + {:.item} **2019** - <a href="https://oslandia.com/en/2019/06/27/qgis-server-continuous-integration-platform/">QGIS Server: continuous integration platform</a>
