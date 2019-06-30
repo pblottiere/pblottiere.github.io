@@ -4,6 +4,7 @@ layout: left
 
 # For Oslandia
 
+  + {:.item} **2019** - <a href="https://oslandia.com/en/2019/06/27/qgis-server-continuous-integration-platform/">QGIS Server: continuous integration platform</a>
   + {:.item} **2019** - <a href="https://oslandia.com/2019/06/21/qgis-3-and-performance-analysis/">QGIS 3 and Performance Analysis</a>
   + {:.item} **2018** - <a href="https://oslandia.com/2018/11/06/qgis-server-3-ogc-certification-work-for-wfs-1-1-0/">QGIS Server 3 : OGC Certification work for WFS 1.1.0</a>
   + {:.item} **2017** - <a href="https://oslandia.com/2017/12/20/qgis-3-compiling-on-windows/">QGIS 3 compiling on Windows</a>
