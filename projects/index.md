@@ -32,8 +32,3 @@ Due to my strong interest in point cloud technologies, I'm also involved in:
   + {:.item} <a href="https://github.com/pgpointcloud/pointcloud">PgPointCloud</a>: core committer, LAZ compression
   + {:.item} <a href="https://github.com/PDAL/PDAL">PDAL</a>: revert Morton algorithm
   + {:.item} <a href="https://github.com/LASzip/LASzip">LASzip</a>
-
-<hr/>
-# Hobby
-
-  + {:.item} <a href="https://github.com/Brasserie-De-Toulbroch">Brasserie de Toulbroc'h</a>
