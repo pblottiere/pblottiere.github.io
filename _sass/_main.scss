@@ -160,5 +160,15 @@ p {
 .center-image
 {
   margin: 0 auto;
-  //display: block;
+  display: block;
+  border: 2px solid $color-darker;
+}
+
+code.inline {
+  color: #bbbbbb;
+  background-color: $color-darker;
+  padding: 2px 4px;
+  font-size: 90%;
+  border-radius: 4px;
+  white-space: nowrap;
 }
