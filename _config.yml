@@ -24,3 +24,7 @@ author:
 description: "Personal website of Paul Blottiere, Software Engineer."
 title: "Paul Blottiere"
 url: "https://maberger.com"
+
+markdown: kramdown
+kramdown:
+  parse_block_html: true
