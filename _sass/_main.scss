@@ -88,21 +88,6 @@ ul.topnav a:active {
   color: white;
 }
 
-//ul {
-//  font-size: 1.6rem;
-//  font-weight: 400;
-//  text-align: center;
-//
-//  li {
-//    display: inline-block;
-//  }
-//
-//  a {
-//    padding-left: 0px;
-//    text-decoration: none;
-//  }
-//}
-
 a:link {
   color: $color-blue;
   font-weight: 400;
@@ -160,5 +145,23 @@ p {
 .center-image
 {
   margin: 0 auto;
-  //display: block;
+  display: block;
+  border: 1px solid $color-darker;
+}
+
+code.inline {
+  color: #bbbbbb;
+  background-color: $color-darker;
+  padding: 2px 4px;
+  font-size: 90%;
+  border-radius: 4px;
+  white-space: nowrap;
+}
+
+.post-icon {
+  margin-bottom: 2px;
+}
+
+summary:focus {
+  outline: none;
 }
