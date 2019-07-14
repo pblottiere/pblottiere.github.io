@@ -2,7 +2,12 @@
 layout: left
 ---
 
-# [2016 - now] Oslandia
+# [2019 - now] Hytech Imaging
+
+WIP
+<hr/>
+
+# [2016 - 2019] Oslandia
 
 2016 was the year I decided to fully immerse myself in Open Source community
 dedicated to Geographical Information System. For this purpose, I joined
