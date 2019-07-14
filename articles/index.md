@@ -2,10 +2,6 @@
 layout: left
 ---
 
-# Personal
-
-  + {:.item} **2019** - [PyQGIS, QML and charts]({% post_url 2019-06-28-qml-part0 %})
-
 
 # For Oslandia
 
