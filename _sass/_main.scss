@@ -161,3 +161,7 @@ code.inline {
 .post-icon {
   margin-bottom: 2px;
 }
+
+summary:focus {
+  outline: none;
+}
