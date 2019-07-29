@@ -3,6 +3,11 @@ layout: left
 ---
 
 
+# Personal
+
+  + {:.item} **2019** - <a href="https://pblottiere.github.io/2019/07/30/qml/">PyQGIS, QML and charts</a>
+
+
 # For Oslandia
 
   + {:.item} **2019** - <a href="https://oslandia.com/en/2019/06/27/qgis-server-continuous-integration-platform/">QGIS Server: continuous integration platform</a>
