@@ -12,7 +12,7 @@ I participated in the following GitHub repositories:
 
   + {:.item} <a href="https://github.com/qgis/QGIS">QGIS</a>: qgz format, auxiliary storage, QGIS Server, ...
   + {:.item} <a href="https://github.com/qgis/QGIS-Server-CertifSuite">QGIS-Server-CertifSuite</a>: docker infrastructure to generate WMS 1.3.0 and WFS 1.1.0 OGC certification reports
-  + {:.item} <a href="https://github.com/qgis/QGIS-Server-PerfSuite">QGIS-Server-PerfSuite</a>: docker infrastructure to monitor performances and generate statitics reports
+  + {:.item} <a href="https://github.com/qgis/QGIS-Server-PerfSuite">QGIS-Server-PerfSuite</a>: docker infrastructure to monitor performances and generate statistics reports
   + {:.item} <a href="https://github.com/qgis/QGIS-Sysadmin">QGIS-Sysadmin</a>: automated deployment scripts for qgis4 server
   + {:.item} <a href="https://github.com/qgis/QGIS-Documentation">QGIS-Documentation</a>: documentation repository
 
