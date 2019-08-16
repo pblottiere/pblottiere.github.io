@@ -1,6 +1,6 @@
 # Jekyll Settings
 excerpt_separator: <!--more-->
-exclude: ["CNAME", "README.md", "LICENSE"]
+exclude: ["CNAME", "README.md", "LICENSE", "vendor"]
 paginate: 5
 paginate_path: ":num"
 permalink: pretty

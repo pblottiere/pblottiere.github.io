@@ -5,7 +5,7 @@ Personal website for [http://pblottiere.github.io/](http://pblottiere.github.io)
 ## Requirements
 
 ```sh
-bundle install
+bundle install --path vendor/bundle
 ```
 
 ## Usage
