@@ -5,7 +5,7 @@ layout: left
 # About
 
   - {:.item} Paul Blottiere
-  - {:.item} Implicated Software Engineer
+  - {:.item} Open Source GIS Software Engineer
   - {:.item} Happy Husband and Dad
   - {:.item} Proud Breton
 
