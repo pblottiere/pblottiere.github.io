@@ -11,6 +11,7 @@ layout: left
 
 # Contributor
 
+  + {:.item} **2019** - <a href="https://twitter.com/Qgis_Bzh/status/1176431791437168642">QGIS Breizh meetup</a>, Rennes, France
   + {:.item} **2018** - <a href="">FOSS4G Belgique</a>, Brussel, Belgique
   + {:.item} **2017** - <a href="https://github.com/qgis/QGIS/wiki/QGIS3---QGIS-Server-code-sprint-Notes">QGIS Server Code Sprint</a>, Lyon, France
   + {:.item} **2017** - <a href="https://github.com/qgis/QGIS/wiki/19th-QGIS-Developer-Meeting-and-3rd-User-conference-in-N%C3%B8debo,-August-2-11-2017">QGIS User and Developer Conference</a>, Nødebo, Danemark
