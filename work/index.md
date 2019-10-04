@@ -4,7 +4,12 @@ layout: left
 
 # [2019 - now] Hytech Imaging
 
-WIP
+Hytech Imaging is a small company based in Britanny and specialised in Earth
+Observation and multi-spectral technologies. We are not only designing avionic
+embedded systems, but we also take care of airborne campaign data. Then, we use
+our beloved softwares and algorithms to process the data and elaborate maps.
+Day to day, I'm wearing more than one 'hat': Lead Software Engineer, System
+Administrator and Community manager. My days are full :).
 <hr/>
 
 # [2016 - 2019] Oslandia
