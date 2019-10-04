@@ -24,6 +24,14 @@ line tool allows to generate a statistics report according to a customisable tes
 scenario written in YAML. It is now deployed in continuous integration on qgis4 server to generate
 <a href="http://tests.qgis.org/perf_test/graffiti/">daily performance reports</a>.
 
+## Snail
+
+Still with the aim of monitoring performances, I developped a dedicated QGIS
+desktop plugin named <a href="https://plugins.qgis.org/plugins/snail/">snail</a>. For
+now, it allows to monitor the CPU and RAM consumption used by QGIS Desktop as
+well as to trigger a warning when a specified amout of RAM is exceeded. More
+functionalities will come over time.
+
 <hr/>
 # Point Clouds
 
