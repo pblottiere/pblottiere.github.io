@@ -5,7 +5,7 @@ layout: left
 
 # Speaker
 
-  + {:.item} **2019** - BarCamp about <a href="http://conf.qgis.osgeo.fr/2019/12/12/QGISDay_jour1.html">How to contribute to QGIS when I'm a Python developper</a>, QGIS User Group Conference, Montpellier, France
+  + {:.item} **2019** - BarCamp about <a href="http://conf.qgis.osgeo.fr/2019/12/12/QGISDay_jour1.html">How to contribute to QGIS when I'm a Python developer</a>, QGIS User Group Conference, Montpellier, France
   + {:.item} **2019** - Meetup about <a href="">QGIS Server 3</a>, QGIS Breizh User Group, Rennes, France
   + {:.item} **2017** - Talk about <a href="https://europe.foss4g.org/2017/assets/pdf/FOSS4G-Europe-2017-Program.pdf">QGIS Server 3: Refactoring and enhancement</a>, FOSS4G Europe, Paris, France
   + {:.item} **2016** - Workshop about <a href="http://osgeo.asso.fr/foss4gfr-2016/programme.html">Massive Point Cloud processing (PostGIS, PDAL, PgPointCloud)</a>, FOSS4Gfr, Paris, France
@@ -13,7 +13,7 @@ layout: left
 
 # Contributor
 
-  + {:.item} **2019** - <a href="https://twitter.com/Qgis_Bzh/status/1176431791437168642">QGIS Breizh meetup</a>, Rennes, France
+  + {:.item} **2019** - <a href="https://twitter.com/Qgis_Bzh/status/1176431791437168642">QGIS Breizh Meetup</a>, Rennes, France
   + {:.item} **2018** - <a href="">FOSS4G Belgique</a>, Brussel, Belgique
   + {:.item} **2017** - <a href="https://github.com/qgis/QGIS/wiki/QGIS3---QGIS-Server-code-sprint-Notes">QGIS Server Code Sprint</a>, Lyon, France
   + {:.item} **2017** - <a href="https://github.com/qgis/QGIS/wiki/19th-QGIS-Developer-Meeting-and-3rd-User-conference-in-N%C3%B8debo,-August-2-11-2017">QGIS User and Developer Conference</a>, Nødebo, Danemark
