@@ -5,6 +5,8 @@ layout: left
 
 # Speaker
 
+  + {:.item} **2019** - BarCamp about <a href="http://conf.qgis.osgeo.fr/2019/12/12/QGISDay_jour1.html">How to contribute to QGIS when I'm a Python developper</a>, QGIS User Group Conference, Montpellier, France
+  + {:.item} **2019** - Meetup about <a href="">QGIS Server 3</a>, QGIS Breizh User Group, Rennes, France
   + {:.item} **2017** - Talk about <a href="https://europe.foss4g.org/2017/assets/pdf/FOSS4G-Europe-2017-Program.pdf">QGIS Server 3: Refactoring and enhancement</a>, FOSS4G Europe, Paris, France
   + {:.item} **2016** - Workshop about <a href="http://osgeo.asso.fr/foss4gfr-2016/programme.html">Massive Point Cloud processing (PostGIS, PDAL, PgPointCloud)</a>, FOSS4Gfr, Paris, France
   + {:.item} **2016** - Talk about <a href="http://blog.qgis.org/2016/06/30/report-back-15th-qgis-hackfest-in-girona-spain/">QGIS Virtual Layers</a>, QGIS User and Developer Conference, Gérone, Espagne
