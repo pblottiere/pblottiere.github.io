@@ -8,6 +8,7 @@ layout: left
   - {:.item} Open Source GIS Software Engineer
   - {:.item} Happy Husband and Dad
   - {:.item} Proud Breton
+  - {:.item} *It's our choices that show what we truly are far more than our abilities.* (A. Dumbledore)
 
 # Contact
 
