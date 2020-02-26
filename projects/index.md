@@ -7,11 +7,16 @@ layout: left
 ## Role
 
 Core committer, French Voting Member and System Administrator, I'm deeply
-involved in <a href="https://www.qgis.org/en/site">QGIS</a> project. In particular,
-I participated in the following GitHub repositories:
+involved in the <a href="https://www.qgis.org/en/site">QGIS</a> project. To
+fulfill these activities, I'm an active contributor of a local user group as
+well as a member of the
+<a href="https://www.qcooperative.net/">QCooperative</a>, an international group
+of opensource GIS experts.
+
+In practice, I participated in the following GitHub repositories:
 
   + {:.item} <a href="https://github.com/qgis/QGIS">QGIS</a>: qgz format, auxiliary storage, QGIS Server, ...
-  + {:.item} <a href="https://github.com/qgis/QGIS-Server-CertifSuite">QGIS-Server-CertifSuite</a>: docker infrastructure to generate WMS 1.3.0 and WFS 1.1.0 OGC certification reports
+  + {:.item} <a href="https://github.com/qgis/QGIS-Server-CertifSuite">QGIS-Server-CertifSuite</a>: docker infrastructure to generate WMS 1.3.0, WFS 1.1.0 and OGC API Features OGC certification reports
   + {:.item} <a href="https://github.com/qgis/QGIS-Server-PerfSuite">QGIS-Server-PerfSuite</a>: docker infrastructure to monitor performances and generate statistics reports
   + {:.item} <a href="https://github.com/qgis/QGIS-Sysadmin">QGIS-Sysadmin</a>: automated deployment scripts for qgis4 server
   + {:.item} <a href="https://github.com/qgis/QGIS-Documentation">QGIS-Documentation</a>: documentation repository
