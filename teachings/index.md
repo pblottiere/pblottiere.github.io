@@ -2,6 +2,13 @@
 layout: left
 ---
 
+# QGIS Training
+
+For several years now, I am a professional instructor specialised on QGIS
+software.  User training, Python plugin or C++ core development are always a
+good way to fuel thinking and creativity.
+
+<hr/>
 # Embedded Systems
 
 Thanks to my professional experience in avionics middleware development,
@@ -23,10 +30,3 @@ laboratories (MPI, RPC, RabbitMQ, ...) to final year students at
 <a href="https://www.imt-atlantique.fr/en">IMT Atlantique</a>.
 
 It's always a pleasure to come back to my former engineering school!
-
-<hr/>
-# Training
-
-For several years now, I am a professional instructor specialised on QGIS
-software.  User training, Python plugin or C++ core development are always a
-good way to fuel thinking and creativity.
