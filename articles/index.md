@@ -9,17 +9,17 @@ layout: left
   + {:.item} **July 2019** - <a href="https://pblottiere.github.io/2019/07/30/qml/">PyQGIS, QML and charts</a>
 
 
-# For QGIS.org blog
-
-  + {:.item} **May 2020** - <a href="http://blog.qgis.org/2020/05/13/qgis-server-and-ogc-api-features/">QGIS Server and OGC API Features</a>
-
-
-# For the QCooperative
+# QCooperative
 
   + {:.item} **May 2020** - <a href="https://www.qcooperative.net/blog/ogcapif/">QGIS Server and OGC API Features</a>
 
 
-# For Oslandia
+# QGIS.org
+
+  + {:.item} **May 2020** - <a href="http://blog.qgis.org/2020/05/13/qgis-server-and-ogc-api-features/">QGIS Server and OGC API Features</a>
+
+
+# Oslandia
 
   + {:.item} **June 2019** - <a href="https://oslandia.com/en/2019/06/27/qgis-server-continuous-integration-platform/">QGIS Server: continuous integration platform</a>
   + {:.item} **June 2019** - <a href="https://oslandia.com/2019/06/21/qgis-3-and-performance-analysis/">QGIS 3 and Performance Analysis</a>
