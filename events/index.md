@@ -5,6 +5,7 @@ layout: left
 
 # Speaker
 
+  + {:.item} **2020** - Talk about <a href="http://qgis.us/qgis-na-2020">Yes QGIS Server rocks!... But why?</a>, QGIS North America
   + {:.item} **2019** - BarCamp about <a href="http://conf.qgis.osgeo.fr/2019/12/12/QGISDay_jour1.html">How to contribute to QGIS when I'm a Python developer</a>, QGIS User Group Conference, Montpellier, France
   + {:.item} **2019** - Meetup about <a href="">QGIS Server 3</a>, QGIS Breizh User Group, Rennes, France
   + {:.item} **2017** - Talk about <a href="https://europe.foss4g.org/2017/assets/pdf/FOSS4G-Europe-2017-Program.pdf">QGIS Server 3: Refactoring and enhancement</a>, FOSS4G Europe, Paris, France
