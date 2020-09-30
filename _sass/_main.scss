@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:300,400,700');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,700');
 
 $color-dark: #333;
 $color-darker: #202020;
@@ -8,6 +9,7 @@ $color-light-nav: #999999;
 $color-lighter: #bbb;
 $color-blue: #3F98E2;
 $color-hr: #404040;
+$color-text: #a0a0a0;
 
 @import 'dark';
 @import 'light';
@@ -16,7 +18,7 @@ $font-size-large: 2.4rem;
 $font-size-normal: 2rem;
 $font-size-small: 1.8rem;
 $font-size-tiny: 1.6rem;
-$font-family-sans: Lato, sans-serif;
+$font-family-sans: Open-Sans, sans-serif;
 
 html, body {
   font-size: 62.5%;
@@ -31,6 +33,7 @@ body {
   font-size: $font-size-tiny;
   font-weight: 300;
   min-height: 100vh;
+  line-height: 1.35;
 
   > * {
     flex: 1 100%;
@@ -147,6 +150,13 @@ p {
   margin: 0 auto;
   display: block;
   border: 1px solid $color-darker;
+}
+
+.center-image-no-border
+{
+  margin: 0 auto;
+  display: block;
+  border: 0px;
 }
 
 code.inline {
