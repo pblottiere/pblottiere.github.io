@@ -21,6 +21,13 @@ In practice, I participated in the following GitHub repositories:
   + {:.item} <a href="https://github.com/qgis/QGIS-Sysadmin">QGIS-Sysadmin</a>: automated deployment scripts for qgis4 server
   + {:.item} <a href="https://github.com/qgis/QGIS-Documentation">QGIS-Documentation</a>: documentation repository
 
+## pyogctest
+
+<a href="https://github.com/pblottiere/pyogctest">pyogctest</a> is a Python
+tool to run OGC test suites from your terminal. It's currently used and
+deployed in the QGIS continuous integration process to test QGIS Server
+services and certification status.
+
 ## Graffiti
 
 For the purpose of QGIS Server and performance analysis for WMS service, I developped

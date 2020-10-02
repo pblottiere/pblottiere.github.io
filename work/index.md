@@ -2,6 +2,13 @@
 layout: left
 ---
 
+# [2019 - now] QCooperative
+
+To fulfill my open-source activities on QGIS, I am a member of the <a
+href="https://www.qcooperative.net/">QCooperative</a>, an international group
+of opensource GIS experts. Feel free to contact us if you think we can help!
+<hr/>
+
 # [2019 - now] Hytech Imaging
 
 <a href="https://hytech-imaging.fr/">Hytech Imaging</a> is a small company
@@ -9,7 +16,7 @@ based in Britanny and specialised in Earth Observation and multi-spectral
 technologies. We are not only designing avionic embedded systems, but we also
 take care of airborne campaign data. Then, we use our beloved softwares and
 algorithms to process the data and elaborate maps.  Day to day, I'm wearing
-more than one 'hat': Lead Software Engineer, System Administrator and Community
+more than one cap: Lead Software Engineer, System Administrator and Community
 manager. My days are full :).
 <hr/>
 
