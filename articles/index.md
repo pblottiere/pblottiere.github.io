@@ -5,7 +5,7 @@ layout: left
 
 # Personal
 
-  + {:.item} **October 2020** - <a href="https://pblottiere.github.io/2020/10/06/wmst/">QGIS Server and WMS-T</a>
+  + {:.item} **October 2020** - <a href="https://pblottiere.github.io/2020/10/06/wmst/">QGIS Server and the WMS protocol with Time dimension</a>
   + {:.item} **September 2019** - <a href="https://pblottiere.github.io/2019/09/18/wfs3/">QGIS Server and WFS3</a>
   + {:.item} **July 2019** - <a href="https://pblottiere.github.io/2019/07/30/qml/">PyQGIS, QML and charts</a>
 
