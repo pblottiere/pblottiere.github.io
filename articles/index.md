@@ -12,6 +12,7 @@ layout: left
 
 # QCooperative
 
+  + {:.item} **March 2021** - <a href="https://www.qcooperative.net/blog/ciwms130/">QGIS Grant Program - Part 1: QGIS Server, OGC tests and continuous integration</a>
   + {:.item} **May 2020** - <a href="https://www.qcooperative.net/blog/ogcapif/">QGIS Server and OGC API Features</a>
 
 
