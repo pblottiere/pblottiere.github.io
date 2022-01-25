@@ -5,7 +5,8 @@ layout: left
 
 # Speaker
 
-  + {:.item} **2020** - Talk about <a href="http://conf.qgis.osgeo.fr/z20_programme.html">QGIS Server: Présent et Futur</a>, French QGIS User Group Conference
+  + {:.item} **2022** - Talk about <a href="http://conf.qgis.osgeo.fr/z20_programme.html">QGIS Server: le choix de la simplicité(?)</a>, French QGIS User Group Conference
+  + {:.item} **2020** - Talk about <a href="https://raw.githack.com/qcooperative/presentations/master/qgis-fr-meeting-2020/build/index.html#/presentation-title">QGIS Server: Présent et Futur</a>, French QGIS User Group Conference
   + {:.item} **2020** - Talk about <a href="https://www.qgis.ch/en/association/user-meetings/user-meeting-online-autumn-2020">QGIS Server Enhancement Proposals</a>, Swiss QGIS user group meeting
   + {:.item} **2020** - Talk about <a href="http://qgis.us/qgis-na-2020">Yes QGIS Server rocks!... But why?</a>, QGIS North America
   + {:.item} **2019** - BarCamp about <a href="http://conf.qgis.osgeo.fr/2019/12/12/QGISDay_jour1.html">How to contribute to QGIS when I'm a Python developer</a>, QGIS User Group Conference, Montpellier, France
@@ -26,6 +27,7 @@ layout: left
 
 # Organising team
 
+  + {:.item} **2022** - <a href="http://conf.qgis.osgeo.fr/">Program Committee</a>, French QGIS User Group Conference 2022, France
   + {:.item} **2020** - <a href="http://conf.qgis.osgeo.fr/">Program Committee</a>, French QGIS User Group Conference 2020, France
   + {:.item} **2019** - <a href="http://conf.qgis.osgeo.fr/">Program Committee</a>, French QGIS User Group Conference 2019, Montpellier, France
 
