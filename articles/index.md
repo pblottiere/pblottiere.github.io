@@ -18,6 +18,7 @@ layout: left
 
 # QGIS.org
 
+  + {:.item} **August 2023** - <a href="https://blog.qgis.org/2023/08/22/qgis-server-3-28-is-officially-ogc-compliant/">QGIS server 3.28 is officially OGC compliant</a>
   + {:.item} **May 2020** - <a href="http://blog.qgis.org/2020/05/13/qgis-server-and-ogc-api-features/">QGIS Server and OGC API Features</a>
 
 
