@@ -5,6 +5,7 @@ layout: left
 
 # Speaker
 
+  + {:.item} **2023** - Meetup about <a href="">QGIS : projet, organisation et communauté</a>, QGIS Breizh User Group, Rennes, France
   + {:.item} **2022** - Talk about <a href="http://conf.qgis.osgeo.fr/z20_programme.html">QGIS Server: le choix de la simplicité(?)</a>, French QGIS User Group Conference
   + {:.item} **2020** - Talk about <a href="https://raw.githack.com/qcooperative/presentations/master/qgis-fr-meeting-2020/build/index.html#/presentation-title">QGIS Server: Présent et Futur</a>, French QGIS User Group Conference
   + {:.item} **2020** - Talk about <a href="https://www.qgis.ch/en/association/user-meetings/user-meeting-online-autumn-2020">QGIS Server Enhancement Proposals</a>, Swiss QGIS user group meeting
