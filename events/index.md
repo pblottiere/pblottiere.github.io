@@ -18,6 +18,8 @@ layout: left
 
 # Participant
 
+  + {:.item} **2024** - <a href="https://github.com/qgis/QGIS/wiki/Code-Sprint-QGIS-Grenoble,-March-2024">QGIS Code Sprint</a>, Grenoble, France
+  + {:.item} **2024** - <a href="https://www.osgeo.org/events/french-qgis-users-days-2024/">French QGIS User Group Conference</a>, Grenoble, France
   + {:.item} **2023** - <a href="https://www.shom.fr/">Shom Hackathon</a>, Brest, France
   + {:.item} **2020** - <a href="https://www.campusmer.fr/Ocean-Hackathon_-Ocean-Hackathon_-2020-3367-1306-0-0.html">Ocean Hackathon</a>, Brest, France
   + {:.item} **2019** - <a href="https://twitter.com/Qgis_Bzh/status/1176431791437168642">QGIS Breizh Meetup</a>, Rennes, France
