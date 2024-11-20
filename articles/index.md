@@ -7,6 +7,13 @@ layout: left
 
 + {:item} **October 2024** - <a href="https://connect.ed-diamond.com/misc/mischs-030/rootkit-et-dll-hijacking">Rootkit and DLL Hijacking</a>
 
+
+# QGIS.org
+
+  + {:.item} **August 2023** - <a href="https://blog.qgis.org/2023/08/22/qgis-server-3-28-is-officially-ogc-compliant/">QGIS server 3.28 is officially OGC compliant</a>
+  + {:.item} **May 2020** - <a href="http://blog.qgis.org/2020/05/13/qgis-server-and-ogc-api-features/">QGIS Server and OGC API Features</a>
+
+
 # Personal
 
   + {:.item} **October 2020** - <a href="https://pblottiere.github.io/2020/10/06/wmst/">QGIS Server and the WMS protocol with Time dimension</a>
@@ -18,12 +25,6 @@ layout: left
 
   + {:.item} **March 2021** - <a href="https://www.qcooperative.net/blog/ciwms130/">QGIS Grant Program - Part 1: QGIS Server, OGC tests and continuous integration</a>
   + {:.item} **May 2020** - <a href="https://www.qcooperative.net/blog/ogcapif/">QGIS Server and OGC API Features</a>
-
-
-# QGIS.org
-
-  + {:.item} **August 2023** - <a href="https://blog.qgis.org/2023/08/22/qgis-server-3-28-is-officially-ogc-compliant/">QGIS server 3.28 is officially OGC compliant</a>
-  + {:.item} **May 2020** - <a href="http://blog.qgis.org/2020/05/13/qgis-server-and-ogc-api-features/">QGIS Server and OGC API Features</a>
 
 
 # Oslandia
