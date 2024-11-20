@@ -5,7 +5,7 @@ layout: left
 
 # MISC Magazine
 
-+ {:item} **October 2024** - <a href="https://connect.ed-diamond.com/misc/mischs-030/rootkit-et-dll-hijacking">Rootkit and DLL Hijacking</a>
+  + {:.item} **October 2024** - <a href="https://connect.ed-diamond.com/misc/mischs-030/rootkit-et-dll-hijacking">Rootkit and DLL Hijacking</a>
 
 
 # QGIS.org
