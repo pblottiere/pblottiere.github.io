@@ -3,6 +3,10 @@ layout: left
 ---
 
 
+# MISC Magazine
+
++ {:item} **October 2024** - <a href="https://connect.ed-diamond.com/misc/mischs-030/rootkit-et-dll-hijacking">Rootkit and DLL Hijacking</a
+
 # Personal
 
   + {:.item} **October 2020** - <a href="https://pblottiere.github.io/2020/10/06/wmst/">QGIS Server and the WMS protocol with Time dimension</a>
