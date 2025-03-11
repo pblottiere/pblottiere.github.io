@@ -2,7 +2,7 @@
 layout: left
 ---
 
-# Contribution
+# Contributions
 
 Since 2016, I have been actively contributing to the field of Geographic
 Information Systems (GIS) as a core committer in several FOSS (Free and Open
@@ -20,8 +20,7 @@ about the project's direction.
 # Projects
 
 Here are some Open Source projects I've been involved in over the years,
-focusing on functionality improvements, bug fixes, and enhancing user
-experience:
+focusing on functionality improvements, bug fixes, maintenance and packaging:
 
   + {:.item} <a href="https://github.com/qgis/QGIS">QGIS</a>: leading GIS software for mapping, analysis, and data visualization
   + {:.item} <a href="https://github.com/qgis/QGIS">QGIS-Server</a>: platform for serving geospatial data and maps via web services
