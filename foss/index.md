@@ -2,14 +2,14 @@
 layout: left
 ---
 
-# Engagement
+# Contribution
 
-Since 2016, I have had the privilege of actively contributing to the field of
-Geographic Information Systems (GIS) as a core committer in several FOSS (Free
-and Open Source Software) projects. My involvement in this community has
-allowed me to play a part in the development and evolution of several tools and
-libraries that are now used by thousands of professionals and enthusiasts in
-the GIS field around the world.
+Since 2016, I have been actively contributing to the field of Geographic
+Information Systems (GIS) as a core committer in several FOSS (Free and Open
+Source Software) projects. My involvement in this community has allowed me to
+play a part in the development and evolution of several tools and libraries
+that are now used by thousands of professionals and enthusiasts in the GIS
+field around the world.
 
 In particular I’ve been a core committer for several years for QGIS, a major
 open-source GIS project with over 300 contributors, thousands of active users
