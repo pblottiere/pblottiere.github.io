@@ -9,15 +9,14 @@ href="https://www.qcooperative.net/">QCooperative</a>, an international group
 of opensource GIS experts. Feel free to contact us if you think we can help!
 <hr/>
 
-# [2019 - now] Hytech Imaging
+# [2019 - 2024] Hytech Imaging
 
 <a href="https://hytech-imaging.fr/">Hytech Imaging</a> is a small company
-based in Britanny and specialised in Earth Observation and multi-spectral
-technologies. We are not only designing avionic embedded systems, but we also
-take care of airborne campaign data. Then, we use our beloved softwares and
-algorithms to process the data and elaborate maps.  Day to day, I'm wearing
-more than one cap: Lead Software Engineer, System Administrator and Community
-manager. My days are full :).
+based in Brittany, specializing in Earth Observation and multi-spectral
+technologies. We design avionic embedded systems and manage airborne campaign
+data. Using our in-house softwares and algorithms, we process the data and
+create maps. On a daily basis, I wear multiple hats: Lead Tech and System
+Administrator.
 <hr/>
 
 # [2016 - 2019] Oslandia

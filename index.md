@@ -5,9 +5,8 @@ layout: left
 # About
 
   - {:.item} Paul Blottiere
-  - {:.item} Open Source GIS Software Engineer
-  - {:.item} Happy Husband and Dad
-  - {:.item} *It's our choices that show what we truly are far more than our abilities.* (AD)
+  - {:.item} Software Engineer
+  - {:.item} FOSS contributor, writer and speaker
 
 # Contact
 
