@@ -17,7 +17,7 @@ worldwide, and continuous development through regular updates and a vibrant
 community. I'm also part of the voting community, where I help make decisions
 about the project's direction.
 
-## Projects
+# Projects
 
 Here are some Open Source projects I've been involved in over the years,
 focusing on functionality improvements, bug fixes, and enhancing user
