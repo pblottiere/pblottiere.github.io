@@ -5,16 +5,16 @@ layout: left
 
 # Speaker
 
-  + {:.item} **2023** - Meetup about <a href="">QGIS : projet, organisation et communauté</a> (QGIS Breizh User Group, Rennes, France)
-  + {:.item} **2022** - Talk about <a href="http://conf.qgis.osgeo.fr/z20_programme.html">QGIS Server: le choix de la simplicité(?)</a> (French QGIS User Group Conference)
-  + {:.item} **2020** - Talk about <a href="https://raw.githack.com/qcooperative/presentations/master/qgis-fr-meeting-2020/build/index.html#/presentation-title">QGIS Server: Présent et Futur</a> (French QGIS User Group Conference)
-  + {:.item} **2020** - Talk about <a href="https://www.qgis.ch/en/association/user-meetings/user-meeting-online-autumn-2020">QGIS Server Enhancement Proposals</a> (Swiss QGIS user group meeting)
-  + {:.item} **2020** - Talk about <a href="http://qgis.us/qgis-na-2020">Yes QGIS Server rocks!... But why?</a>, QGIS North America
-  + {:.item} **2019** - BarCamp about <a href="http://conf.qgis.osgeo.fr/2019/12/12/QGISDay_jour1.html">How to contribute to QGIS when I'm a Python developer</a> (QGIS User Group Conference, Montpellier, France)
-  + {:.item} **2019** - Meetup about <a href="">QGIS Server 3</a> (QGIS Breizh User Group, Rennes, France)
-  + {:.item} **2017** - Talk about <a href="https://europe.foss4g.org/2017/assets/pdf/FOSS4G-Europe-2017-Program.pdf">QGIS Server 3: Refactoring and enhancement</a> (FOSS4G Europe, Paris, France)
-  + {:.item} **2016** - Workshop about <a href="http://osgeo.asso.fr/foss4gfr-2016/programme.html">Massive Point Cloud processing (PostGIS, PDAL, PgPointCloud)</a> (FOSS4Gfr, Paris, France)
-  + {:.item} **2016** - Talk about <a href="http://blog.qgis.org/2016/06/30/report-back-15th-qgis-hackfest-in-girona-spain/">QGIS Virtual Layers</a> (QGIS User and Developer Conference, Gérone, Espagne)
+  + {:.item} 2023 - <a href="">QGIS : projet, organisation et communauté</a> (Meetup, QGIS Breizh User Group, Rennes, France)
+  + {:.item} 2022 - <a href="http://conf.qgis.osgeo.fr/z20_programme.html">QGIS Server: le choix de la simplicité(?)</a> (Conference, French QGIS User Group Conference)
+  + {:.item} 2020 - <a href="https://raw.githack.com/qcooperative/presentations/master/qgis-fr-meeting-2020/build/index.html#/presentation-title">QGIS Server: Présent et Futur</a> (Conference, French QGIS User Group Conference)
+  + {:.item} 2020 - <a href="https://www.qgis.ch/en/association/user-meetings/user-meeting-online-autumn-2020">QGIS Server Enhancement Proposals</a> (Conference, Swiss QGIS user group meeting)
+  + {:.item} 2020 - <a href="http://qgis.us/qgis-na-2020">Yes QGIS Server rocks!... But why?</a> (Conference, QGIS North America)
+  + {:.item} 2019 - <a href="http://conf.qgis.osgeo.fr/2019/12/12/QGISDay_jour1.html">How to contribute to QGIS when I'm a Python developer</a> (BarCamp, QGIS User Group Conference, Montpellier, France)
+  + {:.item} 2019 - <a href="">QGIS Server 3</a> (Meetup, QGIS Breizh User Group, Rennes, France)
+  + {:.item} 2017 - <a href="https://europe.foss4g.org/2017/assets/pdf/FOSS4G-Europe-2017-Program.pdf">QGIS Server 3: Refactoring and enhancement</a> (Conference, FOSS4G Europe, Paris, France)
+  + {:.item} 2016 - <a href="http://osgeo.asso.fr/foss4gfr-2016/programme.html">Massive Point Cloud processing (PostGIS, PDAL, PgPointCloud)</a> (Workshop, FOSS4Gfr, Paris, France)
+  + {:.item} 2016 - <a href="http://blog.qgis.org/2016/06/30/report-back-15th-qgis-hackfest-in-girona-spain/">QGIS Virtual Layers</a> (Conference, QGIS User and Developer Conference, Gérone, Espagne)
 
 # Participant
 
