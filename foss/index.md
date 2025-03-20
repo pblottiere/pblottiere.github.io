@@ -12,10 +12,9 @@ that are now used by thousands of professionals and enthusiasts in the GIS
 field around the world.
 
 In particular I’ve been a core committer for several years for QGIS, a major
-open-source GIS project with over 300 contributors, thousands of active users
-worldwide, and continuous development through regular updates and a vibrant
-community. I'm also part of the voting community, where I help make decisions
-about the project's direction.
+open-source GIS project with over 300 contributors and thousands of active
+users worldwide. I'm also part of the voting community, where I help make
+decisions about the project's direction.
 
 # Projects
 
