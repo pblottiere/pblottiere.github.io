@@ -9,7 +9,7 @@ layout: left
 
 # QGIS Server
 
-  + {:.item} 2025 - <a href="https://blog.geotribu.net/2025/04/18/whats-under-the-hood-of-the-official-qgis-server-docker-image/">What’s under the hood of the official QGIS Server Docker image? ?</a> (Geotribu)
+  + {:.item} 2025 - <a href="https://blog.geotribu.net/2025/04/18/whats-under-the-hood-of-the-official-qgis-server-docker-image/">What’s under the hood of the official QGIS Server Docker image?</a> (Geotribu)
   + {:.item} 2023 - <a href="https://blog.qgis.org/2023/08/22/qgis-server-3-28-is-officially-ogc-compliant/">QGIS server 3.28 is officially OGC compliant</a> (QGIS.org)
   + {:.item} 2021 - <a href="https://www.qcooperative.net/blog/ciwms130/">QGIS Grant Program - Part 1: QGIS Server, OGC tests and continuous integration</a> (QCooperative)
   + {:.item} 2020 - <a href="https://www.qcooperative.net/blog/ogcapif/">QGIS Server and OGC API Features</a> (QCooperative)
