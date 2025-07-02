@@ -5,6 +5,7 @@ layout: left
 
 # Speaker
 
+  + {:.item} 2025 - <a href="">GIS in Pharo: PharoOWS</a> (Conference, European Smalltalk User Group, Gdańsk, Poland)
   + {:.item} 2023 - <a href="">QGIS : projet, organisation et communauté</a> (Meetup, QGIS Breizh User Group, Rennes, France)
   + {:.item} 2022 - <a href="http://conf.qgis.osgeo.fr/z20_programme.html">QGIS Server: le choix de la simplicité(?)</a> (Conference, French QGIS User Group Conference)
   + {:.item} 2020 - <a href="https://raw.githack.com/qcooperative/presentations/master/qgis-fr-meeting-2020/build/index.html#/presentation-title">QGIS Server: Présent et Futur</a> (Conference, French QGIS User Group Conference)
