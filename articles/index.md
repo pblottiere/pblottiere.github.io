@@ -4,6 +4,7 @@ layout: left
 
 # MISC Magazine
 
+  + {:.item} 2026 - <a href="https://connect.ed-diamond.com/misc/mischs-034/lsan-de-l-elf-a-la-detection-de-fuite">LSan: From ELF to Leak Detection</a> (MISC Magazine)
   + {:.item} 2024 - <a href="https://connect.ed-diamond.com/misc/mischs-030/rootkit-et-dll-hijacking">Rootkit and DLL Hijacking</a> (MISC Magazine)
 
 
